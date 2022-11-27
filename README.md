@@ -1,0 +1,1 @@
+add Autostart.sh at ~/.dwm/ directory
